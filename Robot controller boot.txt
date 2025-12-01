@@ -1,0 +1,11 @@
+Robot controller boot:
+
+1. Zorg dat controller code is geflasht op teensy:
+cd ~
+cd rens_hardware
+cd firmware
+./run
+
+2. ros2 launch linorobot2_bringup bringup.launch.py
+
+3. ros2 launch teleop_twist_joy teleop-launch.py joy_config:=ps3
