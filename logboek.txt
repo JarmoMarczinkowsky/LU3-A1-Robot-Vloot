@@ -1,0 +1,15 @@
+Logboek Projekt robofleet
+										uren;
+Week 1:
+persoonlijke leerdoelen:							: 0.5
+	- Ik wil beter om kunnen gaan met ros kommando's, 
+	- Ik wil goed kunnen omgaan met de lidar. 
+
+Maandag 01-12-2025;
+scrum verdeeld, storypoints verdeeld, vlog besproken, sprint ingedeeld		: 2 
+Lunch										: 1
+Uitvinden hoe slam werkt en opstarten met de lidar     				: 2
+
+Dinsdag 02-12-2025;
+daily stand-up.									: 0.5
+
