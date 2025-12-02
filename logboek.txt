@@ -13,3 +13,6 @@ Uitvinden hoe slam werkt en opstarten met de lidar     				: 2
 Dinsdag 02-12-2025;
 daily stand-up.									: 0.5
 informatie vergaren rondom slam lidar en robot. 				: 0.5
+werken aan de lidar en slam								: 5
+lunch 										: 0.5
+pondering 							: infinite
